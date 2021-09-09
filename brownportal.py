@@ -11,6 +11,7 @@ def pentagon():
 
 pentagon()
     
-# logo()hideturtle()
+# logo()
+hideturtle()
 mainloop()
 # octagon()
